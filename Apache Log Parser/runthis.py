@@ -4,7 +4,7 @@ import collections
 import codecs
 import csv
 
-data = open("CTF1.log", "r")
+data = open(sys.argv[1], "r")
 
 #output csv
 f = open("output.csv", "wb")
