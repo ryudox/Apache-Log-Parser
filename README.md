@@ -17,7 +17,7 @@ SQL injection:
 (\'|%27|%22)\d.*(SELECT|TRUNCATE|DELETE|INSERT|DROP|UNION|OR)
 
 XSS:
-(<|%3c).*(%3e|>)
+(<|%3c)\w\w\w\w\w\w(%3e|>)
 
 File Inclusion:
 (..|%2e%2e)(/|%2f)
