@@ -2,8 +2,8 @@
 
 1) Open command line and browse to the root folder (Apache Log Parser)
 
-2) Rename the log file that you want to scan to "CTF1.log"
+2) Move the log file to be analyzed to the same directory as runthis.py (root folder)
 
-2) Run command python runthis.py
+3) Run the command "python runthis.py <log_filename>"
 
-3) Output will be in the output.csv file in the format of |Vulnerability|Content Log|False Positive?|
+4) Output will be in the output.csv file in the format of |Vulnerability|Content Log|False Positive?|
