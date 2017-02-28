@@ -5,9 +5,7 @@ Vulnerability Scanner for Apache log files
 
 1) Open command line and browse to the root folder (Apache Log Parser)
 
-2) Rename the log file that you want to scan to "CTF1.log"
-
-2) Run command python runthis.py
+2) Run the command "python runthis.py <log_filename>"
 
 3) Output will be in the output.csv file in the format of |Vulnerability|Content Log|False Positive?|
 
