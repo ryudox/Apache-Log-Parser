@@ -19,4 +19,4 @@ CSV format could also be altered, Currently, there is 3 columns:
 2) writer.writerow(['Potential XSS',line,'Pending'])
 
 
-#Welcome to add in regex check, however it could decrease the speed of scanning. Do balance it out!
+#Welcome to add in regex check, I have added some examples in the README, however it could decrease the speed of scanning. Do balance it out!
