@@ -1,1 +1,6 @@
 <script>
+%3cscript%3e
+<script%3e
+%3cscript>
+alert(
+alert%28
