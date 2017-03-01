@@ -20,3 +20,6 @@ CSV format could also be altered, Currently, there is 3 columns:
 
 
 #Welcome to add in regex check, I have added some examples in the README, however it could decrease the speed of scanning. Do balance it out!
+
+#regex match example
+re.match(r'',line_to_be_matched)
